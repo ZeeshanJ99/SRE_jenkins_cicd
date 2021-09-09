@@ -164,7 +164,6 @@ Once git pushed both jobs on the main Jenkins menu should be visibly successful.
 ![image](https://user-images.githubusercontent.com/88186084/132735368-9f482e4e-04c3-4353-9074-001678be4336.png)
 
 
-
 ------------------------------------------------------------
 
 ## Creating a Jenkins to to copy code to the ec2 instance
@@ -233,7 +232,7 @@ In the terminal cd into your ~/.ssh directory and `cat` into the private key (wi
       nohup node app.js > /dev/null 2>&1 &
       EOF
 
---------------------------------------------------
+---------------------------------------------------------------
 
 ### 6. Apply and save
 
