@@ -68,20 +68,10 @@ npm test`
 - Save and apply
 
 
-
-
-
-
-
-
-
-
-
 ## Creating a Jenkins job to merge code from a dev branch to main
 
 
 
 ## Creating a Jenkins to to copy code to the ec2 instance 
-
 
 
