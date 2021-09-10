@@ -45,15 +45,15 @@ https://github.com/ZeeshanJ99/SRE_Github_ssh_setup
 - Under credentials, add a new key of the kind SSH Username with private key.
 Generate a new key (as described in https://github.com/ZeeshanJ99/SRE_Github_ssh_setup)
 
-- Navigate to the private key and copy it into the Private Key: Enter directly section 
+- Navigate to the private key and copy it into the Private Key: `Enter directly` section 
 
-- Give the key a name and description 
+- Give the key a `name` and `description` 
 
 - Go to your GitHub repo's settings page and navigate to Deploy Keys
 
 - Select Add Deploy Key. Give the key a name.
 
-- Navigate to the public key (.pub) and copy the key into the Key section on GitHub.
+- Navigate to the public key on your terminal and use `cat` (.pub) to copy the key into the Key section on GitHub.
 
 - In this case, we need this SSH key to allow write access, so we must check the Allow write access check-box.
 
